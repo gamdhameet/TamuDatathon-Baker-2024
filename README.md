@@ -75,7 +75,3 @@ The challenge aimed to optimize a **condition monitoring system** for electric m
 
 ---
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/motor-health-monitoring.git
